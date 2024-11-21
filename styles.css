@@ -1,0 +1,117 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif, 'Times New Roman';
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+}
+
+header {
+    background-color: #000000;
+    color:#ffffff;
+    padding: 30px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin:px;
+}
+
+nav ul li a {
+    color: #2f00ff;
+    text-decoration: ;
+}
+
+section {
+    padding: 5px;
+}
+
+.produtos-lista {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+}
+
+.produto {
+    background-color: #ff0000;
+    border: 0px solid #ff0000;
+    padding: 0px;
+    border-radius: 10px;
+    width: 400px;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif, 'Times New Roman';
+    background-color:#f5f5dc;
+    padding: 0px;
+}
+
+h2, h3 {
+    color: #000000;
+}
+
+.produto {
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 8px rgba(255, 255, 255, 0.1);
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+.produto button {
+    background-color: #000000;
+    color: #f5f5dc;
+    border: none;
+    padding: 10px 15px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.produto button:hover {
+    background-color: #8a8a8a;
+}
+
+
+
+
+
+
+
+
+
+header a {
+    color: #2f00ff;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+button {
+    background-color: #8a8a8a;
+    color: #8a8a8a;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #8a8a8a;
+}
+
+a {
+    text-decoration: none;
+    color: #8a8a8a;
+}
+
+a:hover {
+    color: #0066ff;
+}
